@@ -7,7 +7,7 @@ This is a simple Android Appliaction for saving and viewing Notes using SQLite
 
 </center>
 
-#Functionality
+# Functionality
 * Using recyclerview adapter for displaying all notes
 * On note click -> new view with information about the note
 * Options to edit and delete notes when viewing note
@@ -20,7 +20,7 @@ This is a simple Android Appliaction for saving and viewing Notes using SQLite
 
 </center>
 
-#Notes
+# Notes
 - ID (hidden)
 - Title (for displaying in the list)
 - Note (the information of the note)
