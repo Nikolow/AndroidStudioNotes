@@ -12,7 +12,8 @@ This is a simple Android Appliaction for saving and viewing Notes using SQLite
 * On note click -> new view with information about the note
 * Options to edit and delete notes when viewing note
 * Option to delete notes with swiping (+ undo function)
-* Option to add a note
+* Option to add a new note
+* Auto save
 
 <center>
 
